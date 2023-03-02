@@ -8,6 +8,7 @@ https://dl.acm.org/doi/abs/10.1145/3572848.3577434
 
 ## GPU Implementation
 1. link: https://github.com/gunrock/loops
+2. Not yet finished reading the code.
 
 
 ## Furture thinking
