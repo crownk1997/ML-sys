@@ -1,4 +1,4 @@
-## ACCELERATING TRAINING AND INFERENCE OF GRAPH NEURAL NETWORKS WITH FAST SAMPLING AND PIPELINING
+## Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining
 https://research.ibm.com/publications/accelerating-training-and-inference-of-graph-neural-networks-with-fast-sampling-and-pipelining
 
 ## Motivation & Contribution
