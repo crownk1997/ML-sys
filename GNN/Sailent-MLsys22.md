@@ -9,3 +9,5 @@ https://research.ibm.com/publications/accelerating-training-and-inference-of-gra
 
 ## Implementation
 1. Link: https://github.com/MITIBMxGraph/SALIENT_artifact
+
+## Further thinking
